@@ -1,8 +1,9 @@
 input-files:
     - intro.md
+    - usecases.md
 output-file: output.pdf
 metadata:
-    title: "My Document"
-    author: "John Doe"
+    title: "Doggiver System"
+    author: "T Moodley, D du Plessus"
     date: "2025-02-18"
     toc: true
